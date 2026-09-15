@@ -466,7 +466,10 @@ Collector:
 
 ## 📜 License
 
-Choose and add the license you want to use for the project.
+      GNU GENERAL PUBLIC LICENSE v3
+
+      You can modify steal the code we will not care
+
 
 ---
 
